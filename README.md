@@ -1,6 +1,8 @@
 # Python Certification - freeCodeCamp
 
-This repository contains my solutions for the **freeCodeCamp Scientific Computing with Python Certification** projects.
+This repository contains my solutions for the **freeCodeCamp Python Certification v9** projects.
+
+I avoid using code completion for self-learning projects.. 🙂
 
 ## 📁 Projects
 
@@ -29,8 +31,8 @@ Each project folder contains:
 
 | Project                 | Status     |
 | ----------------------- | ---------- |
-| Arithmetic Formatter    | ⏳ Pending |
-| Time Calculator         | ⏳ Pending |
-| Budget App              | ⏳ Pending |
-| Polygon Area Calculator | ⏳ Pending |
-| Probability Calculator  | ⏳ Pending |
+| Configuration Manager   | ✅ Done    |
+| Budget App              | ✅ Done    |
+| Polygon Area Calculator | ✅ Done    |
+| Hash Table              | ⏳ Pending |
+| Tower of Hanoi          | ⏳ Pending |
