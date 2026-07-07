@@ -1,6 +1,6 @@
 # Python Certification - freeCodeCamp
 
-This repository contains my solutions for the **freeCodeCamp Python Certification v9** projects.
+This repository contains my solutions for the [freeCodeCamp - Python Certification](https://www.freecodecamp.org/learn/python-v9/) projects.
 
 I avoid using code completion for self-learning projects.. 🙂
 
@@ -25,7 +25,7 @@ Each project folder contains:
 
 ## 📚 Certification
 
-[Python Certification](https://www.freecodecamp.org/learn/python-v9/)
+TBD
 
 ## 📌 Progress
 
