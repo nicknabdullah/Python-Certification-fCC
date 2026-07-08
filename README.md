@@ -29,10 +29,11 @@ TBD
 
 ## 📌 Progress
 
-| Project                 | Status     |
-| ----------------------- | ---------- |
-| Configuration Manager   | ✅ Done    |
-| Budget App              | ✅ Done    |
-| Polygon Area Calculator | ✅ Done    |
-| Hash Table              | ⏳ Pending |
-| Tower of Hanoi          | ⏳ Pending |
+| Project                 | Status     | Complexity |
+| ----------------------- | ---------- | ---------- | 
+| Configuration Manager   | ✅ Done    | Easy       |
+| Budget App              | ✅ Done    | Easy       |
+| ISBN Validator          | ✅ Done    | Medium - Takes a while to understand some of the stories,<br> and pass all the tests !  |
+| Polygon Area Calculator | ✅ Done    | Easy       |
+| Hash Table              | ⏳ Pending | -          |
+| Tower of Hanoi          | ⏳ Pending | -          |
