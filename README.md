@@ -31,9 +31,9 @@ TBD
 
 | Project                 | Status     | Complexity |
 | ----------------------- | ---------- | ---------- | 
-| Configuration Manager   | ✅ Done    | Easy       |
-| Budget App              | ✅ Done    | Easy       |
+| Configuration Manager   | ✅ Done    | Easy |
+| Budget App              | ✅ Done    | Easy |
 | ISBN Validator          | ✅ Done    | Medium - Takes a while to understand some of the stories,<br> and pass all the tests !  |
-| Polygon Area Calculator | ✅ Done    | Easy       |
-| Hash Table              | ⏳ Pending | -          |
-| Tower of Hanoi          | ⏳ Pending | -          |
+| Polygon Area Calculator | ✅ Done    | Easy |
+| Hash Table              | ✅ Done    | Easy |
+| Tower of Hanoi          | ⏳ Pending | -  |
