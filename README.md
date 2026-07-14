@@ -36,4 +36,5 @@ TBD
 | ISBN Validator          | ✅ Done    | Medium - Takes a while to understand some of the stories,<br> and pass all the tests !  |
 | Polygon Area Calculator | ✅ Done    | Easy |
 | Hash Table              | ✅ Done    | Easy |
+| Bisection Method        | ✅ Done    | Medium - Took some time to get around the brief problem statement |
 | Tower of Hanoi          | ⏳ Pending | -  |
